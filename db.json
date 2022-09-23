@@ -1,4 +1,16 @@
 {
-    "employee": [],
-    "store":[]
+  "employee": [
+    {
+      "name": "SAIKH MIRSAT",
+      "batch": "",
+      "course": "",
+      "age": "",
+      "mobile": "",
+      "score": "",
+      "status": true,
+      "id": 1
+    }
+  ],
+  "store": [],
+  "products": []
 }
