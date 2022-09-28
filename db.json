@@ -99,5 +99,12 @@
     }
   ],
   "items": [],
-  "homeproducts": []
+  "homeproducts": [
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0627/7388/7215/products/L101104-1_1.jpg?v=1659450395",
+      "title": "Evermore Ear Cuff Earrings",
+      "dolar": 10.00,
+      "id": 1
+    }
+  ]
 }
