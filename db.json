@@ -4806,27 +4806,1262 @@
       "vote_count": 17
     }
   ],
-  "jobdata":[
-    {"id":1, "title":"Lead Producer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F1f61d027-d061-4780-9198-fb8c716d6e0a&w=1920&q=75"},
-    {"id":2, "title":"Lead Producer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F1f61d027-d061-4780-9198-fb8c716d6e0a&w=1920&q=75"},
-    {"id":3, "title":"Full-Stack JavaScript Developer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fd74e52d1-6529-4ab1-98b2-a27b1b9947ed&w=1920&q=75"},
-    {"id":4, "title":"Lead Producer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fd74e52d1-6529-4ab1-98b2-a27b1b9947ed&w=1920&q=75"},
-    {"id":5, "title":"Director of Marketing","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fd4f13259-d651-4b8a-8115-48bdfabd24aa&w=1920&q=75"},
-    {"id":6, "title":"Senior Software Engineer ","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F0ecc5576-0a1c-4787-880b-6e23c379550e&w=1920&q=75"},
-    {"id":7, "title":"Account Executive","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F0ecc5576-0a1c-4787-880b-6e23c379550e&w=1920&q=75"},
-    {"id":8, "title":"Development Database Assistant","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F08360c55-4fb4-48e0-8392-eeda80628196&w=1920&q=75"},
-    {"id":9, "title":"Head Of Engineering","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F5588c68a-7beb-4004-96ac-11b2ba547e5c&w=1920&q=75"},
-    {"id":10, "title":"Email and Lifecycle Marketing Manager","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F4f63e19b-106b-4094-8888-71e1d275320f&w=1920&q=75"},
-    {"id":11, "title":"Sr. IT Database Developer/Administrator","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F9c1b3b11-db61-4d76-ab95-cfd9eb148aa5&w=1920&q=75"},
-    {"id":12,"title":"Solutions Engineer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F9fcb1732-3ac2-478d-881b-60cc3a1dc093&w=1920&q=75"},
-    {"id":13,"title":"Senior QA Engineer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F9fcb1732-3ac2-478d-881b-60cc3a1dc093&w=1920&q=75"},
-    {"id":14,"title":"Software Engineer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fa605146c-3594-4a30-a842-93bde16bf06c&w=1920&q=75"},
-    {"id":15,"title":"System Administrator","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fc4021382-fa82-49b1-99a4-ce3158be1412&w=1920&q=75"},
-    {"id":16,"title":"Sales Processor (SLC)","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fc4021382-fa82-49b1-99a4-ce3158be1412&w=1920&q=75"},
-    {"id":17,"title":"Senior Android Engineer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F139de010-baaf-47c5-bea7-f5862e0f483f&w=1920&q=75"},
-    {"id":18,"title":"Head of People","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F139de010-baaf-47c5-bea7-f5862e0f483f&w=1920&q=75"},
-    {"id":19,"title":"Digital Marketing Manager","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Ff23f0f0a-1af4-4001-a139-043571ef0e61&w=1920&q=75"},
-    {"id":20,"title":"Director of Infrastructure","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fe9a096cf-73b3-46be-a6f9-80e989c52907&w=1920&q=75"},
-    {"id":21,"title":"Senior Engineer","img":"https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Ff23f0f0a-1af4-4001-a139-043571ef0e61&w=1920&q=75"}
-]
+  "jobdata": [
+    {
+      "id": 1,
+      "title": "Lead Producer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F1f61d027-d061-4780-9198-fb8c716d6e0a&w=1920&q=75"
+    },
+    {
+      "id": 2,
+      "title": "Lead Producer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F1f61d027-d061-4780-9198-fb8c716d6e0a&w=1920&q=75"
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack JavaScript Developer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fd74e52d1-6529-4ab1-98b2-a27b1b9947ed&w=1920&q=75"
+    },
+    {
+      "id": 4,
+      "title": "Lead Producer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fd74e52d1-6529-4ab1-98b2-a27b1b9947ed&w=1920&q=75"
+    },
+    {
+      "id": 5,
+      "title": "Director of Marketing",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fd4f13259-d651-4b8a-8115-48bdfabd24aa&w=1920&q=75"
+    },
+    {
+      "id": 6,
+      "title": "Senior Software Engineer ",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F0ecc5576-0a1c-4787-880b-6e23c379550e&w=1920&q=75"
+    },
+    {
+      "id": 7,
+      "title": "Account Executive",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F0ecc5576-0a1c-4787-880b-6e23c379550e&w=1920&q=75"
+    },
+    {
+      "id": 8,
+      "title": "Development Database Assistant",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F08360c55-4fb4-48e0-8392-eeda80628196&w=1920&q=75"
+    },
+    {
+      "id": 9,
+      "title": "Head Of Engineering",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F5588c68a-7beb-4004-96ac-11b2ba547e5c&w=1920&q=75"
+    },
+    {
+      "id": 10,
+      "title": "Email and Lifecycle Marketing Manager",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F4f63e19b-106b-4094-8888-71e1d275320f&w=1920&q=75"
+    },
+    {
+      "id": 11,
+      "title": "Sr. IT Database Developer/Administrator",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F9c1b3b11-db61-4d76-ab95-cfd9eb148aa5&w=1920&q=75"
+    },
+    {
+      "id": 12,
+      "title": "Solutions Engineer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F9fcb1732-3ac2-478d-881b-60cc3a1dc093&w=1920&q=75"
+    },
+    {
+      "id": 13,
+      "title": "Senior QA Engineer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F9fcb1732-3ac2-478d-881b-60cc3a1dc093&w=1920&q=75"
+    },
+    {
+      "id": 14,
+      "title": "Software Engineer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fa605146c-3594-4a30-a842-93bde16bf06c&w=1920&q=75"
+    },
+    {
+      "id": 15,
+      "title": "System Administrator",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fc4021382-fa82-49b1-99a4-ce3158be1412&w=1920&q=75"
+    },
+    {
+      "id": 16,
+      "title": "Sales Processor (SLC)",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fc4021382-fa82-49b1-99a4-ce3158be1412&w=1920&q=75"
+    },
+    {
+      "id": 17,
+      "title": "Senior Android Engineer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F139de010-baaf-47c5-bea7-f5862e0f483f&w=1920&q=75"
+    },
+    {
+      "id": 18,
+      "title": "Head of People",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F139de010-baaf-47c5-bea7-f5862e0f483f&w=1920&q=75"
+    },
+    {
+      "id": 19,
+      "title": "Digital Marketing Manager",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Ff23f0f0a-1af4-4001-a139-043571ef0e61&w=1920&q=75"
+    },
+    {
+      "id": 20,
+      "title": "Director of Infrastructure",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fe9a096cf-73b3-46be-a6f9-80e989c52907&w=1920&q=75"
+    },
+    {
+      "id": 21,
+      "title": "Senior Engineer",
+      "img": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Ff23f0f0a-1af4-4001-a139-043571ef0e61&w=1920&q=75"
+    }
+  ],
+  "jobDataNaukri": [
+    {
+      "name": "Data Science Lead",
+      "rating": "4.3",
+      "reviews": "981",
+      "exp": "7-12",
+      "location": "Temp. WFH - Kochi/Cochin, Hyde...",
+      "dis": "Roles and Responsibilities Data Science Lead Locations :: Pune || Mumbai || Bangalore||...",
+      "post": "3',comp:'Xoriant",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/2436002.gif",
+      "arr": [
+        "Project Manager",
+        "Bigdata Technologies",
+        "Data analysis",
+        "Python"
+      ]
+    },
+    {
+      "name": "Python Programming Language Data Science Practitioner",
+      "rating": "4.1",
+      "reviews": "32474",
+      "exp": "2-4",
+      "location": "Bangalore/Bemga..",
+      "dis": "Key Responsibilities : Must-Have: 1 Understanding of machine learning algorithms 2 Hand...",
+      "post": "3',comp:'Accenture",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/10476.gif",
+      "arr": [
+        "Interpersonal skills",
+        "data science",
+        "Consulting",
+        "Machine learning"
+      ]
+    },
+    {
+      "name": "Urgent Hiring || Java Full Stack Developer || Wipro Limited",
+      "rating": "3.9",
+      "reviews": "28769",
+      "exp": "4-9",
+      "location": "Hybrid - Bhubane..",
+      "dis": "Hi All, Greeting from Wipro Limited!Wipro is hiring for Java Full Stack Developer Requi...",
+      "post": "8',comp:'Wepro",
+      "img": "https://www.naukri.com/hotjobs/images/v3/wipro.gif",
+      "arr": [
+        "Angularjs",
+        "Spring Boot",
+        "Java Fullstack",
+        "Java"
+      ]
+    },
+    {
+      "name": "NTT Data is Hiring SharePoint Azure Developer/Bangalore",
+      "rating": "4.0",
+      "reviews": "102",
+      "exp": "4-9",
+      "location": "Temp. WFH - Hydera...",
+      "dis": "Shift Timings: Rotational ShiftExperience : 4 to 10 Years / L2",
+      "post": "4',comp:'NTT DATA Business Solu..",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/709704.gif",
+      "arr": [
+        "Power Max",
+        "Share Point",
+        "Azura"
+      ]
+    },
+    {
+      "name": "SAP ABAP on Hana",
+      "rating": "3.9",
+      "reviews": "28769",
+      "exp": "5-10",
+      "location": "Hybrid-Bhubaneswar Kol...",
+      "dis": "Good experience in ABAP and OOABAP development(WRICEF and best practises)Knowledge and ...",
+      "post": "1',comp:'Wipro",
+      "img": "https://www.naukri.com/hotjobs/images/v3/wipro.gif",
+      "arr": [
+        "sap abap",
+        "OOABP",
+        "ODATA",
+        "OO ABAP"
+      ]
+    },
+    {
+      "name": "Informatica Data Quality (IDQ) Develpoer",
+      "rating": "3.9",
+      "reviews": "24090",
+      "exp": "6-9",
+      "location": "Bangalore/Bangaliru..",
+      "dis": "5+ years of demonstrated relevant work experience as part of large Data Management / Da...",
+      "post": "2',comp:'Capgemini",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/1288.gif",
+      "arr": [
+        "IDQ",
+        "Data Management",
+        "Data Quality",
+        "EDM"
+      ]
+    },
+    {
+      "name": "Big Data Develpoer",
+      "rating": "3.9",
+      "reviews": "28929",
+      "exp": "3-6",
+      "location": "Bangalore/Bangaluru..",
+      "dis": "Bachelor of Engineering Good understanding of SDLC",
+      "post": "3',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "Big Data",
+        "Hive",
+        "Scala",
+        "Hadoop",
+        "Python"
+      ]
+    },
+    {
+      "name": "Lead Big Data developers",
+      "rating": "3.9",
+      "reviews": "235",
+      "exp": "8-12",
+      "location": "Noida,Indore,Pune..",
+      "dis": "Do you love to work on bleeding-edge Big Data technologies, do you want to work with th...",
+      "post": "5',comp:'Impeture",
+      "img": "https://img.naukri.com/logo_images/v3/33596.gif",
+      "arr": [
+        "IT Skills",
+        "Python",
+        "Cloud",
+        "Big Data",
+        "ADS"
+      ]
+    },
+    {
+      "name": "Associte - Data Science Developer",
+      "rating": "4.0",
+      "reviews": "26",
+      "exp": "3-5",
+      "location": "Pune",
+      "dis": "University (Degree) Preferred 3 Years Required 5 Years Preferred Work Experience",
+      "post": "2',comp:'Teachers Insurance and Annuity",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/3822304.gif",
+      "arr": [
+        "Software testing",
+        "Usage",
+        "data science",
+        "Coding"
+      ]
+    },
+    {
+      "name": "Python Data Analytics developer",
+      "rating": "3.7",
+      "reviews": "981",
+      "exp": "5-8",
+      "location": "Bangalore/Bengaluru",
+      "dis": "Very good Programming skill using Scala / python/Pyspark preferred for machine learning...",
+      "post": "9',comp:'Quest Global",
+      "img": "https://www.naukri.com/hotjobs/images/v3/quest_apr22.gif",
+      "arr": [
+        "Python",
+        "Pyspak",
+        "Azure",
+        "security"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - .NETCore,Angular/React",
+      "rating": "4.0",
+      "reviews": "3755",
+      "exp": "7-12",
+      "location": "Noida,Bhubaneswar..",
+      "dis": "Requirements:Hands-on developing applications using NET Framework, .NET Core and C#.Han...",
+      "post": "11',comp:'Mindtree",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/47784.gif",
+      "arr": [
+        "angular",
+        "IT Skill",
+        "JAVA"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - React / Vue",
+      "rating": "4.1",
+      "reviews": "3",
+      "exp": "0-3",
+      "location": "Gurugaon/Gurugram",
+      "dis": "Knowledge of architectural concepts like Redux/Vuex, Webpacks, React Hooks, Routers, La...",
+      "post": "1',comp:'Handysolver",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/3008396.gif",
+      "arr": [
+        "React Hooks",
+        "SQL",
+        "NextJS",
+        "Redux",
+        "API"
+      ]
+    },
+    {
+      "name": "Full Stack Developer (Node JS,React,JavaScript)",
+      "rating": "4.6",
+      "reviews": "23",
+      "exp": "3-6",
+      "location": "Temp WFH-Kolkata,Mumbai",
+      "dis": "Responsibilities • Engage directly with customers to design, develop, and deploy AI-bas...",
+      "post": "1',comp:'Codvo.ai",
+      "img": "",
+      "arr": [
+        "Node Js",
+        "TI Skills",
+        "Software Developer",
+        "Cloud"
+      ]
+    },
+    {
+      "name": "React.js Developer - HTML/CSS",
+      "rating": "4.0",
+      "reviews": "2",
+      "exp": "0-2",
+      "location": "Hydrabad/Secunderabad",
+      "dis": "Excellent opportunity for Freshers Good written, verbal communication and Problem-solvi...",
+      "post": "3',comp:'Venhan Technologies Pvt.Ltd",
+      "img": "",
+      "arr": [
+        "React.js",
+        "HTML",
+        "JavaScript",
+        "written",
+        "REACT"
+      ]
+    },
+    {
+      "name": "React Native Developer",
+      "rating": "3.9",
+      "reviews": "28348",
+      "exp": "8-10",
+      "location": "Bangalore/Bengaluru",
+      "dis": "MSc, MCA, Bachelor of Engineering Experience in designing high level and low level docu...",
+      "post": "2',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "React Native",
+        "React JS",
+        "React redux"
+      ]
+    },
+    {
+      "name": "React JS Developer",
+      "rating": "3.7",
+      "reviews": "333",
+      "exp": "4-7",
+      "location": "Bangalore/Bangaluru",
+      "dis": "Required SkillsBachelors degree in computer science, information technology.Total 4-6 y...",
+      "post": "4',comp:'Ness",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/359414.gif",
+      "arr": [
+        "react.js",
+        "redux",
+        "typescript",
+        "React"
+      ]
+    },
+    {
+      "name": "React Native Full Stack Developer",
+      "rating": "3.7",
+      "reviews": "122",
+      "exp": "4-9",
+      "location": "Hydrabad",
+      "dis": "Shifts: Overlap of 4-5 hrs with UK timezoneOptimizing components for maximum performanc...",
+      "post": "5',comp:'Atmecs Technologies",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/4581685.gif",
+      "arr": [
+        "redux",
+        "jsvascript",
+        "Android"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - react+Angular - PAN INDIA",
+      "rating": "4.0",
+      "reviews": "508",
+      "exp": "4-6",
+      "location": "Hydrabad/..",
+      "dis": "Profile- Full Stack DeveloperExp- 4-6 YearsSalary - 15- 30 LPASkills- Angular, React JS...",
+      "post": "8',comp:'Altimetrik",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/2978732.gif",
+      "arr": [
+        "Redux",
+        "Angular",
+        "React JS"
+      ]
+    },
+    {
+      "name": "React JS Lead Developer",
+      "rating": "4.0",
+      "reviews": "2230",
+      "exp": "5-10",
+      "location": "Chennai",
+      "dis": "• Maintain quality and ensure the responsiveness of applications. • Hands on experience...",
+      "post": "2',comp:'Globallogic",
+      "img": "https://www.naukri.com/hotjobs/images/v3/global_mar22.gif",
+      "arr": [
+        "react.js",
+        "JS framework",
+        "Unit Texting",
+        "Jest"
+      ]
+    },
+    {
+      "name": "Front End Developer - (React JS and Angular Developer)",
+      "rating": "3.5",
+      "reviews": "155",
+      "exp": "0-2",
+      "location": "Permanat Remote",
+      "dis": "Min 6 to 2 years of Experience (FRESHER CAN ALSO APPLY) Must have knowledge / experienc...",
+      "post": "30+',comp:'Damco Solution",
+      "img": "https://www.naukri.com/hotjobs/images/v3/damcojuly16.gif",
+      "arr": [
+        "Javascript",
+        "Redux",
+        "React JS",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Front end developer",
+      "rating": "3.8",
+      "reviews": "3.8",
+      "exp": "5-7",
+      "location": "Bangalore/Bangalure",
+      "dis": "Over all 5 + years 3+ years Experience with React Strong expertise with HTML, CSS, and ...",
+      "post": "1',comp:'Dynpro",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/393178.gif",
+      "arr": [
+        "React.Js",
+        "AJAX",
+        "CSS",
+        "VM"
+      ]
+    },
+    {
+      "name": "AEM Developer",
+      "rating": "3.8",
+      "reviews": "494",
+      "exp": "4-9",
+      "location": "Hydrabad",
+      "dis": "AEM Developer AEM 6.xTouch UIStatic template development Component developmentInternati...",
+      "post": "2',comp:'Teksystems",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/646230.gif",
+      "arr": [
+        "HTML",
+        "javascript"
+      ]
+    },
+    {
+      "name": "JavaScript developer",
+      "rating": "3.6",
+      "reviews": "33",
+      "exp": "2-7",
+      "location": "Hybrid- bhubaneswar",
+      "dis": "We are hiring JavaScriptslash UI developer to joinMUVIS growing engineering team.To be..",
+      "post": "2',comp:'Muvi Entertainment",
+      "img": "https://www.naukri.com/hotjobs/images/v3/muvimar17.gif",
+      "arr": [
+        "JavaScript developer",
+        "Vue.Js",
+        "UI development",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "HTML, CSS, JavaScript Developer",
+      "rating": "3.9",
+      "reviews": "28348",
+      "exp": "2- 4",
+      "location": "Pune",
+      "dis": "MCA,Master of Science (Technology) Bachelor of engineering good understanding of...",
+      "post": "3',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "HTML",
+        "Angular JS",
+        "CSS",
+        "JavaScript",
+        "HTML5"
+      ]
+    },
+    {
+      "name": "Data Science Lead",
+      "rating": "4.3",
+      "reviews": "981",
+      "exp": "7-12",
+      "location": "Temp. WFH - Kochi/Cochin, Hyde...",
+      "dis": "Roles and Responsibilities Data Science Lead Locations :: Pune || Mumbai || Bangalore||...",
+      "post": "3',comp:'Xoriant",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/2436002.gif",
+      "arr": [
+        "Project Manager",
+        "Bigdata Technologies",
+        "Data analysis",
+        "Python"
+      ]
+    },
+    {
+      "name": "Python Programming Language Data Science Practitioner",
+      "rating": "4.1",
+      "reviews": "32474",
+      "exp": "2-4",
+      "location": "Bangalore/Bemga..",
+      "dis": "Key Responsibilities : Must-Have: 1 Understanding of machine learning algorithms 2 Hand...",
+      "post": "3',comp:'Accenture",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/10476.gif",
+      "arr": [
+        "Interpersonal skills",
+        "data science",
+        "Consulting",
+        "Machine learning"
+      ]
+    },
+    {
+      "name": "Urgent Hiring || Java Full Stack Developer || Wipro Limited",
+      "rating": "3.9",
+      "reviews": "28769",
+      "exp": "4-9",
+      "location": "Hybrid - Bhubane..",
+      "dis": "Hi All, Greeting from Wipro Limited!Wipro is hiring for Java Full Stack Developer Requi...",
+      "post": "8',comp:'Wepro",
+      "img": "https://www.naukri.com/hotjobs/images/v3/wipro.gif",
+      "arr": [
+        "Angularjs",
+        "Spring Boot",
+        "Java Fullstack",
+        "Java"
+      ]
+    },
+    {
+      "name": "NTT Data is Hiring SharePoint Azure Developer/Bangalore",
+      "rating": "4.0",
+      "reviews": "102",
+      "exp": "4-9",
+      "location": "Temp. WFH - Hydera...",
+      "dis": "Shift Timings: Rotational ShiftExperience : 4 to 10 Years / L2",
+      "post": "4',comp:'NTT DATA Business Solu..",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/709704.gif",
+      "arr": [
+        "Power Max",
+        "Share Point",
+        "Azura"
+      ]
+    },
+    {
+      "name": "SAP ABAP on Hana",
+      "rating": "3.9",
+      "reviews": "28769",
+      "exp": "5-10",
+      "location": "Hybrid-Bhubaneswar Kol...",
+      "dis": "Good experience in ABAP and OOABAP development(WRICEF and best practises)Knowledge and ...",
+      "post": "1',comp:'Wipro",
+      "img": "https://www.naukri.com/hotjobs/images/v3/wipro.gif",
+      "arr": [
+        "sap abap",
+        "OOABP",
+        "ODATA",
+        "OO ABAP"
+      ]
+    },
+    {
+      "name": "Informatica Data Quality (IDQ) Develpoer",
+      "rating": "3.9",
+      "reviews": "24090",
+      "exp": "6-9",
+      "location": "Bangalore/Bangaliru..",
+      "dis": "5+ years of demonstrated relevant work experience as part of large Data Management / Da...",
+      "post": "2',comp:'Capgemini",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/1288.gif",
+      "arr": [
+        "IDQ",
+        "Data Management",
+        "Data Quality",
+        "EDM"
+      ]
+    },
+    {
+      "name": "Big Data Develpoer",
+      "rating": "3.9",
+      "reviews": "28929",
+      "exp": "3-6",
+      "location": "Bangalore/Bangaluru..",
+      "dis": "Bachelor of Engineering Good understanding of SDLC",
+      "post": "3',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "Big Data",
+        "Hive",
+        "Scala",
+        "Hadoop",
+        "Python"
+      ]
+    },
+    {
+      "name": "Lead Big Data developers",
+      "rating": "3.9",
+      "reviews": "235",
+      "exp": "8-12",
+      "location": "Noida,Indore,Pune..",
+      "dis": "Do you love to work on bleeding-edge Big Data technologies, do you want to work with th...",
+      "post": "5',comp:'Impeture",
+      "img": "https://img.naukri.com/logo_images/v3/33596.gif",
+      "arr": [
+        "IT Skills",
+        "Python",
+        "Cloud",
+        "Big Data",
+        "ADS"
+      ]
+    },
+    {
+      "name": "Associte - Data Science Developer",
+      "rating": "4.0",
+      "reviews": "26",
+      "exp": "3-5",
+      "location": "Pune",
+      "dis": "University (Degree) Preferred 3 Years Required 5 Years Preferred Work Experience",
+      "post": "2',comp:'Teachers Insurance and Annuity",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/3822304.gif",
+      "arr": [
+        "Software testing",
+        "Usage",
+        "data science",
+        "Coding"
+      ]
+    },
+    {
+      "name": "Python Data Analytics developer",
+      "rating": "3.7",
+      "reviews": "981",
+      "exp": "5-8",
+      "location": "Bangalore/Bengaluru",
+      "dis": "Very good Programming skill using Scala / python/Pyspark preferred for machine learning...",
+      "post": "9',comp:'Quest Global",
+      "img": "https://www.naukri.com/hotjobs/images/v3/quest_apr22.gif",
+      "arr": [
+        "Python",
+        "Pyspak",
+        "Azure",
+        "security"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - .NETCore,Angular/React",
+      "rating": "4.0",
+      "reviews": "3755",
+      "exp": "7-12",
+      "location": "Noida,Bhubaneswar..",
+      "dis": "Requirements:Hands-on developing applications using NET Framework, .NET Core and C#.Han...",
+      "post": "11',comp:'Mindtree",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/47784.gif",
+      "arr": [
+        "angular",
+        "IT Skill",
+        "JAVA"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - React / Vue",
+      "rating": "4.1",
+      "reviews": "3",
+      "exp": "0-3",
+      "location": "Gurugaon/Gurugram",
+      "dis": "Knowledge of architectural concepts like Redux/Vuex, Webpacks, React Hooks, Routers, La...",
+      "post": "1',comp:'Handysolver",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/3008396.gif",
+      "arr": [
+        "React Hooks",
+        "SQL",
+        "NextJS",
+        "Redux",
+        "API"
+      ]
+    },
+    {
+      "name": "Full Stack Developer (Node JS,React,JavaScript)",
+      "rating": "4.6",
+      "reviews": "23",
+      "exp": "3-6",
+      "location": "Temp WFH-Kolkata,Mumbai",
+      "dis": "Responsibilities • Engage directly with customers to design, develop, and deploy AI-bas...",
+      "post": "1',comp:'Codvo.ai",
+      "img": "",
+      "arr": [
+        "Node Js",
+        "TI Skills",
+        "Software Developer",
+        "Cloud"
+      ]
+    },
+    {
+      "name": "React.js Developer - HTML/CSS",
+      "rating": "4.0",
+      "reviews": "2",
+      "exp": "0-2",
+      "location": "Hydrabad/Secunderabad",
+      "dis": "Excellent opportunity for Freshers Good written, verbal communication and Problem-solvi...",
+      "post": "3',comp:'Venhan Technologies Pvt.Ltd",
+      "img": "",
+      "arr": [
+        "React.js",
+        "HTML",
+        "JavaScript",
+        "written",
+        "REACT"
+      ]
+    },
+    {
+      "name": "React Native Developer",
+      "rating": "3.9",
+      "reviews": "28348",
+      "exp": "8-10",
+      "location": "Bangalore/Bengaluru",
+      "dis": "MSc, MCA, Bachelor of Engineering Experience in designing high level and low level docu...",
+      "post": "2',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "React Native",
+        "React JS",
+        "React redux"
+      ]
+    },
+    {
+      "name": "React JS Developer",
+      "rating": "3.7",
+      "reviews": "333",
+      "exp": "4-7",
+      "location": "Bangalore/Bangaluru",
+      "dis": "Required SkillsBachelors degree in computer science, information technology.Total 4-6 y...",
+      "post": "4',comp:'Ness",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/359414.gif",
+      "arr": [
+        "react.js",
+        "redux",
+        "typescript",
+        "React"
+      ]
+    },
+    {
+      "name": "React Native Full Stack Developer",
+      "rating": "3.7",
+      "reviews": "122",
+      "exp": "4-9",
+      "location": "Hydrabad",
+      "dis": "Shifts: Overlap of 4-5 hrs with UK timezoneOptimizing components for maximum performanc...",
+      "post": "5',comp:'Atmecs Technologies",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/4581685.gif",
+      "arr": [
+        "redux",
+        "jsvascript",
+        "Android"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - react+Angular - PAN INDIA",
+      "rating": "4.0",
+      "reviews": "508",
+      "exp": "4-6",
+      "location": "Hydrabad/..",
+      "dis": "Profile- Full Stack DeveloperExp- 4-6 YearsSalary - 15- 30 LPASkills- Angular, React JS...",
+      "post": "8',comp:'Altimetrik",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/2978732.gif",
+      "arr": [
+        "Redux",
+        "Angular",
+        "React JS"
+      ]
+    },
+    {
+      "name": "React JS Lead Developer",
+      "rating": "4.0",
+      "reviews": "2230",
+      "exp": "5-10",
+      "location": "Chennai",
+      "dis": "• Maintain quality and ensure the responsiveness of applications. • Hands on experience...",
+      "post": "2',comp:'Globallogic",
+      "img": "https://www.naukri.com/hotjobs/images/v3/global_mar22.gif",
+      "arr": [
+        "react.js",
+        "JS framework",
+        "Unit Texting",
+        "Jest"
+      ]
+    },
+    {
+      "name": "Front End Developer - (React JS and Angular Developer)",
+      "rating": "3.5",
+      "reviews": "155",
+      "exp": "0-2",
+      "location": "Permanat Remote",
+      "dis": "Min 6 to 2 years of Experience (FRESHER CAN ALSO APPLY) Must have knowledge / experienc...",
+      "post": "30+',comp:'Damco Solution",
+      "img": "https://www.naukri.com/hotjobs/images/v3/damcojuly16.gif",
+      "arr": [
+        "Javascript",
+        "Redux",
+        "React JS",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Front end developer",
+      "rating": "3.8",
+      "reviews": "3.8",
+      "exp": "5-7",
+      "location": "Bangalore/Bangalure",
+      "dis": "Over all 5 + years 3+ years Experience with React Strong expertise with HTML, CSS, and ...",
+      "post": "1',comp:'Dynpro",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/393178.gif",
+      "arr": [
+        "React.Js",
+        "AJAX",
+        "CSS",
+        "VM"
+      ]
+    },
+    {
+      "name": "AEM Developer",
+      "rating": "3.8",
+      "reviews": "494",
+      "exp": "4-9",
+      "location": "Hydrabad",
+      "dis": "AEM Developer AEM 6.xTouch UIStatic template development Component developmentInternati...",
+      "post": "2',comp:'Teksystems",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/646230.gif",
+      "arr": [
+        "HTML",
+        "javascript"
+      ]
+    },
+    {
+      "name": "JavaScript developer",
+      "rating": "3.6",
+      "reviews": "33",
+      "exp": "2-7",
+      "location": "Hybrid- bhubaneswar",
+      "dis": "We are hiring JavaScriptslash UI developer to joinMUVIS growing engineering team.To be..",
+      "post": "2',comp:'Muvi Entertainment",
+      "img": "https://www.naukri.com/hotjobs/images/v3/muvimar17.gif",
+      "arr": [
+        "JavaScript developer",
+        "Vue.Js",
+        "UI development",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "HTML, CSS, JavaScript Developer",
+      "rating": "3.9",
+      "reviews": "28348",
+      "exp": "2- 4",
+      "location": "Pune",
+      "dis": "MCA,Master of Science (Technology) Bachelor of engineering good understanding of...",
+      "post": "3',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "HTML",
+        "Angular JS",
+        "CSS",
+        "JavaScript",
+        "HTML5"
+      ]
+    },
+    {
+      "name": "Data Science Lead",
+      "rating": "4.3",
+      "reviews": "981",
+      "exp": "7-12",
+      "location": "Temp. WFH - Kochi/Cochin, Hyde...",
+      "dis": "Roles and Responsibilities Data Science Lead Locations :: Pune || Mumbai || Bangalore||...",
+      "post": "3',comp:'Xoriant",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/2436002.gif",
+      "arr": [
+        "Project Manager",
+        "Bigdata Technologies",
+        "Data analysis",
+        "Python"
+      ]
+    },
+    {
+      "name": "Python Programming Language Data Science Practitioner",
+      "rating": "4.1",
+      "reviews": "32474",
+      "exp": "2-4",
+      "location": "Bangalore/Bemga..",
+      "dis": "Key Responsibilities : Must-Have: 1 Understanding of machine learning algorithms 2 Hand...",
+      "post": "3',comp:'Accenture",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/10476.gif",
+      "arr": [
+        "Interpersonal skills",
+        "data science",
+        "Consulting",
+        "Machine learning"
+      ]
+    },
+    {
+      "name": "Urgent Hiring || Java Full Stack Developer || Wipro Limited",
+      "rating": "3.9",
+      "reviews": "28769",
+      "exp": "4-9",
+      "location": "Hybrid - Bhubane..",
+      "dis": "Hi All, Greeting from Wipro Limited!Wipro is hiring for Java Full Stack Developer Requi...",
+      "post": "8',comp:'Wepro",
+      "img": "https://www.naukri.com/hotjobs/images/v3/wipro.gif",
+      "arr": [
+        "Angularjs",
+        "Spring Boot",
+        "Java Fullstack",
+        "Java"
+      ]
+    },
+    {
+      "name": "NTT Data is Hiring SharePoint Azure Developer/Bangalore",
+      "rating": "4.0",
+      "reviews": "102",
+      "exp": "4-9",
+      "location": "Temp. WFH - Hydera...",
+      "dis": "Shift Timings: Rotational ShiftExperience : 4 to 10 Years / L2",
+      "post": "4',comp:'NTT DATA Business Solu..",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/709704.gif",
+      "arr": [
+        "Power Max",
+        "Share Point",
+        "Azura"
+      ]
+    },
+    {
+      "name": "SAP ABAP on Hana",
+      "rating": "3.9",
+      "reviews": "28769",
+      "exp": "5-10",
+      "location": "Hybrid-Bhubaneswar Kol...",
+      "dis": "Good experience in ABAP and OOABAP development(WRICEF and best practises)Knowledge and ...",
+      "post": "1',comp:'Wipro",
+      "img": "https://www.naukri.com/hotjobs/images/v3/wipro.gif",
+      "arr": [
+        "sap abap",
+        "OOABP",
+        "ODATA",
+        "OO ABAP"
+      ]
+    },
+    {
+      "name": "Informatica Data Quality (IDQ) Develpoer",
+      "rating": "3.9",
+      "reviews": "24090",
+      "exp": "6-9",
+      "location": "Bangalore/Bangaliru..",
+      "dis": "5+ years of demonstrated relevant work experience as part of large Data Management / Da...",
+      "post": "2',comp:'Capgemini",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/1288.gif",
+      "arr": [
+        "IDQ",
+        "Data Management",
+        "Data Quality",
+        "EDM"
+      ]
+    },
+    {
+      "name": "Big Data Develpoer",
+      "rating": "3.9",
+      "reviews": "28929",
+      "exp": "3-6",
+      "location": "Bangalore/Bangaluru..",
+      "dis": "Bachelor of Engineering Good understanding of SDLC",
+      "post": "3',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "Big Data",
+        "Hive",
+        "Scala",
+        "Hadoop",
+        "Python"
+      ]
+    },
+    {
+      "name": "Lead Big Data developers",
+      "rating": "3.9",
+      "reviews": "235",
+      "exp": "8-12",
+      "location": "Noida,Indore,Pune..",
+      "dis": "Do you love to work on bleeding-edge Big Data technologies, do you want to work with th...",
+      "post": "5',comp:'Impeture",
+      "img": "https://img.naukri.com/logo_images/v3/33596.gif",
+      "arr": [
+        "IT Skills",
+        "Python",
+        "Cloud",
+        "Big Data",
+        "ADS"
+      ]
+    },
+    {
+      "name": "Associte - Data Science Developer",
+      "rating": "4.0",
+      "reviews": "26",
+      "exp": "3-5",
+      "location": "Pune",
+      "dis": "University (Degree) Preferred 3 Years Required 5 Years Preferred Work Experience",
+      "post": "2',comp:'Teachers Insurance and Annuity",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/3822304.gif",
+      "arr": [
+        "Software testing",
+        "Usage",
+        "data science",
+        "Coding"
+      ]
+    },
+    {
+      "name": "Python Data Analytics developer",
+      "rating": "3.7",
+      "reviews": "981",
+      "exp": "5-8",
+      "location": "Bangalore/Bengaluru",
+      "dis": "Very good Programming skill using Scala / python/Pyspark preferred for machine learning...",
+      "post": "9',comp:'Quest Global",
+      "img": "https://www.naukri.com/hotjobs/images/v3/quest_apr22.gif",
+      "arr": [
+        "Python",
+        "Pyspak",
+        "Azure",
+        "security"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - .NETCore,Angular/React",
+      "rating": "4.0",
+      "reviews": "3755",
+      "exp": "7-12",
+      "location": "Noida,Bhubaneswar..",
+      "dis": "Requirements:Hands-on developing applications using NET Framework, .NET Core and C#.Han...",
+      "post": "11',comp:'Mindtree",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/47784.gif",
+      "arr": [
+        "angular",
+        "IT Skill",
+        "JAVA"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - React / Vue",
+      "rating": "4.1",
+      "reviews": "3",
+      "exp": "0-3",
+      "location": "Gurugaon/Gurugram",
+      "dis": "Knowledge of architectural concepts like Redux/Vuex, Webpacks, React Hooks, Routers, La...",
+      "post": "1',comp:'Handysolver",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/3008396.gif",
+      "arr": [
+        "React Hooks",
+        "SQL",
+        "NextJS",
+        "Redux",
+        "API"
+      ]
+    },
+    {
+      "name": "Full Stack Developer (Node JS,React,JavaScript)",
+      "rating": "4.6",
+      "reviews": "23",
+      "exp": "3-6",
+      "location": "Temp WFH-Kolkata,Mumbai",
+      "dis": "Responsibilities • Engage directly with customers to design, develop, and deploy AI-bas...",
+      "post": "1',comp:'Codvo.ai",
+      "img": "",
+      "arr": [
+        "Node Js",
+        "TI Skills",
+        "Software Developer",
+        "Cloud"
+      ]
+    },
+    {
+      "name": "React.js Developer - HTML/CSS",
+      "rating": "4.0",
+      "reviews": "2",
+      "exp": "0-2",
+      "location": "Hydrabad/Secunderabad",
+      "dis": "Excellent opportunity for Freshers Good written, verbal communication and Problem-solvi...",
+      "post": "3',comp:'Venhan Technologies Pvt.Ltd",
+      "img": "",
+      "arr": [
+        "React.js",
+        "HTML",
+        "JavaScript",
+        "written",
+        "REACT"
+      ]
+    },
+    {
+      "name": "React Native Developer",
+      "rating": "3.9",
+      "reviews": "28348",
+      "exp": "8-10",
+      "location": "Bangalore/Bengaluru",
+      "dis": "MSc, MCA, Bachelor of Engineering Experience in designing high level and low level docu...",
+      "post": "2',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "React Native",
+        "React JS",
+        "React redux"
+      ]
+    },
+    {
+      "name": "React JS Developer",
+      "rating": "3.7",
+      "reviews": "333",
+      "exp": "4-7",
+      "location": "Bangalore/Bangaluru",
+      "dis": "Required SkillsBachelors degree in computer science, information technology.Total 4-6 y...",
+      "post": "4',comp:'Ness",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/359414.gif",
+      "arr": [
+        "react.js",
+        "redux",
+        "typescript",
+        "React"
+      ]
+    },
+    {
+      "name": "React Native Full Stack Developer",
+      "rating": "3.7",
+      "reviews": "122",
+      "exp": "4-9",
+      "location": "Hydrabad",
+      "dis": "Shifts: Overlap of 4-5 hrs with UK timezoneOptimizing components for maximum performanc...",
+      "post": "5',comp:'Atmecs Technologies",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/4581685.gif",
+      "arr": [
+        "redux",
+        "jsvascript",
+        "Android"
+      ]
+    },
+    {
+      "name": "Full Stack Developer - react+Angular - PAN INDIA",
+      "rating": "4.0",
+      "reviews": "508",
+      "exp": "4-6",
+      "location": "Hydrabad/..",
+      "dis": "Profile- Full Stack DeveloperExp- 4-6 YearsSalary - 15- 30 LPASkills- Angular, React JS...",
+      "post": "8',comp:'Altimetrik",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/2978732.gif",
+      "arr": [
+        "Redux",
+        "Angular",
+        "React JS"
+      ]
+    },
+    {
+      "name": "React JS Lead Developer",
+      "rating": "4.0",
+      "reviews": "2230",
+      "exp": "5-10",
+      "location": "Chennai",
+      "dis": "• Maintain quality and ensure the responsiveness of applications. • Hands on experience...",
+      "post": "2',comp:'Globallogic",
+      "img": "https://www.naukri.com/hotjobs/images/v3/global_mar22.gif",
+      "arr": [
+        "react.js",
+        "JS framework",
+        "Unit Texting",
+        "Jest"
+      ]
+    },
+    {
+      "name": "Front End Developer - (React JS and Angular Developer)",
+      "rating": "3.5",
+      "reviews": "155",
+      "exp": "0-2",
+      "location": "Permanat Remote",
+      "dis": "Min 6 to 2 years of Experience (FRESHER CAN ALSO APPLY) Must have knowledge / experienc...",
+      "post": "30+',comp:'Damco Solution",
+      "img": "https://www.naukri.com/hotjobs/images/v3/damcojuly16.gif",
+      "arr": [
+        "Javascript",
+        "Redux",
+        "React JS",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Front end developer",
+      "rating": "3.8",
+      "reviews": "3.8",
+      "exp": "5-7",
+      "location": "Bangalore/Bangalure",
+      "dis": "Over all 5 + years 3+ years Experience with React Strong expertise with HTML, CSS, and ...",
+      "post": "1',comp:'Dynpro",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/393178.gif",
+      "arr": [
+        "React.Js",
+        "AJAX",
+        "CSS",
+        "VM"
+      ]
+    },
+    {
+      "name": "AEM Developer",
+      "rating": "3.8",
+      "reviews": "494",
+      "exp": "4-9",
+      "location": "Hydrabad",
+      "dis": "AEM Developer AEM 6.xTouch UIStatic template development Component developmentInternati...",
+      "post": "2',comp:'Teksystems",
+      "img": "https://img.naukimg.com/logo_images/groups/v1/646230.gif",
+      "arr": [
+        "HTML",
+        "javascript"
+      ]
+    },
+    {
+      "name": "JavaScript developer",
+      "rating": "3.6",
+      "reviews": "33",
+      "exp": "2-7",
+      "location": "Hybrid- bhubaneswar",
+      "dis": "We are hiring JavaScriptslash UI developer to joinMUVIS growing engineering team.To be..",
+      "post": "2',comp:'Muvi Entertainment",
+      "img": "https://www.naukri.com/hotjobs/images/v3/muvimar17.gif",
+      "arr": [
+        "JavaScript developer",
+        "Vue.Js",
+        "UI development",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "HTML, CSS, JavaScript Developer",
+      "rating": "3.9",
+      "reviews": "28348",
+      "exp": "2- 4",
+      "location": "Pune",
+      "dis": "MCA,Master of Science (Technology) Bachelor of engineering good understanding of...",
+      "post": "3',comp:'Infosys",
+      "img": "https://www.naukri.com/hotjobs/images/v3/infosys_nov13.gif",
+      "arr": [
+        "HTML",
+        "Angular JS",
+        "CSS",
+        "JavaScript",
+        "HTML5"
+      ]
+    },
+  ]
 }
